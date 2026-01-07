@@ -1,0 +1,14 @@
+{
+  "stationId": "DWLR-IND-001",
+  "readings": [
+    { "timestamp": 1732473600000, "levelMeters": 11.2 },
+    { "timestamp": 1732387200000, "levelMeters": 10.6 },
+    { "timestamp": 1732300800000, "levelMeters": 9.8 },
+    { "timestamp": 1732214400000, "levelMeters": 8.4 },
+    { "timestamp": 1732128000000, "levelMeters": 6.2 },
+    { "timestamp": 1732041600000, "levelMeters": 4.7 },
+    { "timestamp": 1731955200000, "levelMeters": 3.9 }
+  ]
+}
+
+
